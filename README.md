@@ -1,6 +1,6 @@
 # ForceKill Focused
 
-LSPosed module for **OneUI 8.5** that adds a **Force kill** item to the per-task popup menu in Recents, directly below **Keep open**.
+LSPosed module for **OneUI 8.5** that adds a **Force kill** button to the per-task popup menu in Recents, directly below **Keep open**.
 
 Tapping it swipe-dismisses the task card, closes the menu, force-stops that one app (the tapped task only), and removes its Recents card.
 
